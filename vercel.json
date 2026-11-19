@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "netra-xai-dr-screening",
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ]
+}
